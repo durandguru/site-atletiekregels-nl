@@ -1,32 +1,35 @@
 theme = "lynx"
-title = "Lynx"
+title = "Atletiekregels.nl"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
 [params.author]
-  name = "Lynx"
-  headline = "A simple links theme for Hugo built with Tailwind CSS"
+  name = "Atletiekregels.nl"
+  headline = "Een linkpagina met links naar reglementen"
   image = "author.jpg"
   links = [
-    { link = { href = "https://github.com/jpanther/lynx/blob/stable/README.md", text = "View the readme", icon = "github" } },
-    { link = { href = "au/", text = "Atletiekunie", target = "_self" } },
-    { link = { href = "wa/", text = "World Athletics", target = "_self" } },
-    { github = "https://github.com/jpanther/lynx" },
-    { x = "https://x.com/jpanther" },
-    { font-awesome = { href = "https://fontawesome.com/", text = "FontAwesome" } },
+    { atletiekunie = { href = "au/", text = "Atletiekunie", target = "_self" } },
+    { world-athletics = { href = "wa/", text = "World Athletics", target = "_self" } },
+    { world-para-athletics = { href = "wpa/", text = "World Para Athletics", target = "_self" } },
+    { world-master-athletics = { href = "wma/", text = "World Master Athletics", target = "_self" } },
   ]
-  links2 = [
+  au = [
     { link = { href = "https://github.com/jpanther/lynx/blob/stable/README.md", text = "View the readme", icon = "github" } },
     { link = { href = "styles/", text = "All the link styles", target = "_self" } },
   ]
-  links3 = [
-    { x = "https://x.com/jpanther" },
-    { font-awesome = { href = "https://fontawesome.com/", text = "FontAwesome" } },
+  wa = [
+    { x = "WorldAthletics", text = "World Athletics" },
   ]
   wageneral = [
     { x = "https://x.com/microsoft" },
     { font-awesome = { href = "https://fontawesome.com/", text = "FontAwesome" } },
+  ]
+  wma = [
+    { facebook = "https://www.facebook.com/WMAOfficialPage/" },
+  ]
+  wpa = [
+    { x = "https://x.com/ParaAthletics", text = "World Para Athletics" },
   ]
 
 [markup.highlight]
