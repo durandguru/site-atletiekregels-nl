@@ -1,8 +1,9 @@
 ---
-title: Atletiekunie
+title: World Master Athletics
+layout: wma
 ---
 
-Op deze pagina komen links naar de verschillende hoofstukken van het Atletiekunie Wedstrijdreglement.
+Op deze pagina komen links naar de verschillende hoofstukken van het World Master Athletics Wedstrijdreglement.
 <br>
 
 </section>

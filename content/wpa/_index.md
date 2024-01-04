@@ -1,8 +1,9 @@
 ---
-title: Atletiekunie
+title: World Para Athletics
+layout: wpa
 ---
 
-Op deze pagina komen links naar de verschillende hoofstukken van het Atletiekunie Wedstrijdreglement.
+Op deze pagina komen links naar de verschillende hoofstukken van het World Para Athletics Wedstrijdreglement.
 <br>
 
 </section>
