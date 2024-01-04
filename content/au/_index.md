@@ -11,3 +11,5 @@ These are all the built-in link styles available in Lynx. Don't forget that you 
 {{< link email >}}
 {{< link link >}}
 {{< link amazon >}}
+
+{{< abc world-athletics 123 ndi.pdf >}}

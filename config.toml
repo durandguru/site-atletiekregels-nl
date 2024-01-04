@@ -7,12 +7,12 @@ disableKinds = ["taxonomy", "term"]
 [params.author]
   name = "Atletiekregels.nl"
   headline = "Een linkpagina met links naar reglementen"
-  image = "author.jpg"
+  image = ""
   links = [
-    { atletiekunie = { href = "au/", text = "Atletiekunie", target = "_self" } },
-    { world-athletics = { href = "wa/", text = "World Athletics", target = "_self" } },
-    { world-para-athletics = { href = "wpa/", text = "World Para Athletics", target = "_self" } },
-    { world-master-athletics = { href = "wma/", text = "World Master Athletics", target = "_self" } },
+    { link = { href = "au/", text = "Atletiekunie", target = "_self", icon = "atletiekunie-oranje" } },
+    { link = { href = "wa/", text = "World Athletics", target = "_self", icon = "world-athletics" } },
+    { link = { href = "wpa/", text = "World Para Athletics", target = "_self", icon = "world-para-athletics" } },
+    { link = { href = "wma/", text = "World Master Athletics", target = "_self", icon = "world-master-athletics" } },
   ]
   au = [
     { link = { href = "https://github.com/jpanther/lynx/blob/stable/README.md", text = "View the readme", icon = "github" } },
