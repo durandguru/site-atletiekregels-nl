@@ -1,6 +1,9 @@
 theme = "lynx"
 title = "Atletiekregels.nl"
 
+languageCode = "nl"
+defaultContentLanguage = "nl"
+
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
