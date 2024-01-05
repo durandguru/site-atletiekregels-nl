@@ -14,23 +14,6 @@ disableKinds = ["taxonomy", "term"]
     { link = { href = "wpa/", text = "World Para Athletics", target = "_self", icon = "world-para-athletics" } },
     { link = { href = "wma/", text = "World Master Athletics", target = "_self", icon = "world-master-athletics" } },
   ]
-  au = [
-    { link = { href = "https://github.com/jpanther/lynx/blob/stable/README.md", text = "View the readme", icon = "github" } },
-    { link = { href = "styles/", text = "All the link styles", target = "_self" } },
-  ]
-  wa = [
-    { x = "WorldAthletics", text = "World Athletics" },
-  ]
-  wageneral = [
-    { x = "https://x.com/microsoft" },
-    { font-awesome = { href = "https://fontawesome.com/", text = "FontAwesome" } },
-  ]
-  wma = [
-    { facebook = "https://www.facebook.com/WMAOfficialPage/" },
-  ]
-  wpa = [
-    { x = "https://x.com/ParaAthletics", text = "World Para Athletics" },
-  ]
 
 [markup.highlight]
   noClasses = false
