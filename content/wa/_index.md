@@ -2,7 +2,7 @@
 title: World Athletics
 ---
 
-Op deze pagina komen links naar de verschillende hoofstukken van het World Athletics Wedstrijdreglement.
+Op deze pagina staan links naar de verschillende hoofstukken van het World Athletics Wedstrijdreglement.
 <br>
 
 </section>
