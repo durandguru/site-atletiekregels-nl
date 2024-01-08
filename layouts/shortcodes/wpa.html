@@ -1,0 +1,16 @@
+{{ $href := .Get "href" }}
+{{ $icon := .Get "icon" }}
+{{ $title := .Get "title" }}
+
+
+{{ with $href }}
+
+<a
+  class="linkwpa link-{{ $icon }} sm:px-24 min-w-full py-2 mb-3 text-lg rounded text-center"
+  href="{{ . }}"
+  rel="me noopener noreferrer"
+>
+  <span class="mr-1">{{ partial "icon.html" $icon }}</span>
+  {{ $title }}
+</a>
+{{ end }}
