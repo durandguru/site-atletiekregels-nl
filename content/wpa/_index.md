@@ -22,3 +22,4 @@ Op deze pagina staan links naar de verschillende hoofstukken van het World Para 
 {{< pagelink href="wpa-rules.pdf" title="World Para Athletics Rules" icon="world-para-athletics" >}}
 {{< pagelink href="wpa-classification.pdf" title="World Para Athletics Classification" icon="world-para-athletics" >}}
 {{< pagelink href="https://db.ipc-services.org/sdms/web/cml/at/" title="Classification Master List" icon="world-para-athletics" >}}
+{{< pagelink href="https://db.ipc-services.org/sdms/web/mash/sport/at" title="MASH Master List" icon="world-para-athletics" >}}
