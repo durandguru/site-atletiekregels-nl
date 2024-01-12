@@ -1,0 +1,19 @@
+name: Hugo Preview Cleanup
+
+on:
+  workflow_dispatch: 
+  pull_request:
+
+#Special permissions required for OIDC authentication
+permissions:
+  id-token: write
+  contents: write
+  pull-requests: write
+  deployments: write
+
+jobs:
+  tfapply:
+    uses: durandguru/shared-workflows/.github/workflows/hugo-preview-cleanup-nginx-docker.yml@main
+    secrets:
+        WG_CLIENT_PRIVATEKEY: ${{ secrets.WG_CLIENT_PRIVATEKEY}}
+        SSH_KEY: ${{ secrets.SSH_KEY}}
