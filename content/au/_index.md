@@ -9,3 +9,4 @@ Op deze pagina komen links naar de verschillende hoofstukken van het Atletiekuni
 
 <section class="flex flex-col flex-wrap min-w-full mt-4 sm:min-w-0">
 {{< pagelink href="https://www.atletiek.nl" title="atletiek.nl" icon="atletiekunie-wit">}}
+{{< pagelink href="https://www.nkatletiek.nl" title="nkatletiek.nl" icon="atletiekunie-wit">}}
