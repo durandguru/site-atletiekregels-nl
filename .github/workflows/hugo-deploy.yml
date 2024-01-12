@@ -3,6 +3,10 @@ name: Hugo Deploy
 on:
   workflow_dispatch: 
   push:
+    branches:
+      - main
+    paths-ignore:
+      - '.github/**'
 
 #Special permissions required for OIDC authentication
 permissions:
@@ -12,7 +16,7 @@ permissions:
 
 jobs:
   tfapply:
-    uses: durandguru/shared-workflows/.github/workflows/hugo-deply-nginx-docker.yml@main
+    uses: durandguru/shared-workflows/.github/workflows/hugo-deploy-nginx-docker.yml@main
     secrets:
         WG_CLIENT_PRIVATEKEY: ${{ secrets.WG_CLIENT_PRIVATEKEY}}
         SSH_KEY: ${{ secrets.SSH_KEY}}
