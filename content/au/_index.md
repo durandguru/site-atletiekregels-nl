@@ -9,7 +9,7 @@ Op deze pagina staan links naar de verschillende hoofstukken van het atletiekuni
 
 <section class="flex flex-col flex-wrap min-w-full mt-4 sm:min-w-0">
 {{< pagelink href="wedstrijd-regels" title="Wedstrijd Regels" icon="atletiekunie-oranje" >}}
-{{< pagelink href="algemene-regels.pdf" title="Algemene Regels" icon="atletiekunie-oranje" >}}
+{{< pagelink href="algemene-regels.pdf" title="Technische Regels Algemeen" icon="atletiekunie-oranje" >}}
 {{< pagelink href="looponderdelen" title="Looponderdelen" icon="atletiekunie-oranje" >}}
 {{< pagelink href="technische-onderdelen" title="Technische Onderdelen" icon="atletiekunie-oranje" >}}
 {{< pagelink href="meerkamp.pdf" title="Meerkamp" icon="atletiekunie-oranje" >}}
