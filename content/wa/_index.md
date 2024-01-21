@@ -10,7 +10,7 @@ Op deze pagina staan links naar de verschillende hoofstukken van het World Athle
 <section class="flex flex-col flex-wrap min-w-full mt-4 sm:min-w-0">
 {{< pagelink href="general-rules" title="General Rules" icon="world-athletics" >}}
 {{< pagelink href="competition-rules" title="Competition Rules" icon="world-athletics" >}}
-{{< pagelink href="technical-rules-general" title="Technical Rules General" icon="world-athletics" >}}
+{{< pagelink href="technical-rules-general.pdf" title="Technical Rules General" icon="world-athletics" >}}
 {{< pagelink href="track-events" title="Track Events" icon="world-athletics" >}}
 {{< pagelink href="field-events" title="Field Events" icon="world-athletics" >}}
 {{< pagelink href="combined-events.pdf" title="Combined Events" icon="world-athletics" >}}
