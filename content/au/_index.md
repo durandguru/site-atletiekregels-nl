@@ -2,7 +2,7 @@
 title: Atletiekunie
 ---
 
-Op deze pagina staan links naar de verschillende hoofstukken van het atletiekunie-oranje Wedstrijdreglement (2024-01).
+Op deze pagina staan links naar de verschillende hoofstukken van het Atletiekunie Wedstrijdreglement (2024-01).
 <br>
 
 </section>
