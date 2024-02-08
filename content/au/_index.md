@@ -23,3 +23,4 @@ Op deze pagina staan links naar de verschillende hoofstukken van het atletiekuni
 {{< pagelink href="u8-u12.pdf" title="U8 tot en met U12 (Pupillen)" icon="atletiekunie-oranje" >}}
 {{< pagelink href="nk.pdf" title="Nederlandse Kampioenschappen" icon="atletiekunie-oranje" >}}
 {{< pagelink href="wr.pdf" title="Compleet Wedstrijd Reglement" icon="atletiekunie-oranje" >}}
+{{< pagelink href="competitie.pdf" title="Wedstrijdbepalingen Competitie" icon="atletiekunie-oranje" >}}
