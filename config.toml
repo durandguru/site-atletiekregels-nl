@@ -20,6 +20,7 @@ disableKinds = ["taxonomy", "term"]
     { link = { href = "wa/", text = "World Athletics", target = "_self", icon = "world-athletics" } },
     { link = { href = "wpa/", text = "World Para Athletics", target = "_self", icon = "world-para-athletics" } },
     { link = { href = "wma/", text = "World Master Athletics", target = "_self", icon = "world-master-athletics" } },
+    { link = { href = "links/", text = "Links", target = "_self" } },
     { github = { href = "https://github.com/durandguru/site-atletiekregels-nl", text = "GitHub", target = "blank", icon = "github" } },
   ]
 
