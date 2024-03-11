@@ -24,3 +24,4 @@ Op deze pagina staan links naar de verschillende hoofstukken van het Atletiekuni
 {{< pagelink href="nk.pdf" title="Nederlandse Kampioenschappen" icon="atletiekunie-oranje" >}}
 {{< pagelink href="wr.pdf" title="Compleet Wedstrijd Reglement" icon="atletiekunie-oranje" >}}
 {{< pagelink href="competitie.pdf" title="Wedstrijdbepalingen Competitie" icon="atletiekunie-oranje" >}}
+{{< pagelink href="competitie.pdf" title="Richtlijnen en speerpunten 2024-2025" icon="atletiekunie-oranje" >}}
