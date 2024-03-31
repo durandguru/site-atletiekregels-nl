@@ -9,10 +9,10 @@ updates:
     schedule:
       day: "sunday"
       interval: "weekly"
-      time: "03:56"
+      time: "04:56"
   - package-ecosystem: "terraform"
     directory: "/"
     schedule:
       day: "sunday"
       interval: "weekly"
-      time: "03:56"
+      time: "05:56"
