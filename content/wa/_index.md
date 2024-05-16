@@ -20,3 +20,4 @@ Op deze pagina staan links naar de verschillende hoofstukken van het World Athle
 {{< pagelink href="cross-country.pdf" title="Cross Country/Mountain/Trail" icon="world-athletics" >}}
 {{< pagelink href="competition-rules.pdf" title="Complete Competition Rules" icon="world-athletics" >}}
 {{< pagelink href="technical-rules.pdf" title="Complete Technical Rules" icon="world-athletics" >}}
+{{< pagelink href="C1.1 & C2.1 - Competition Rules & Technical Rules.pdf" title="C1.1 & C2.1 - Competition Rules & Technical Rules" icon="world-athletics" >}}
