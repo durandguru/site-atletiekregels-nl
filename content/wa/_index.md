@@ -2,9 +2,9 @@
 title: World Athletics
 ---
 
-Op deze pagina staan links naar de verschillende hoofstukken van het World Athletics Wedstrijdreglement.
+Op deze pagina staan links naar de verschillende hoofdstukken van het World Athletics Wedstrijdreglement.
 
-Versie 2024-01-17
+Versie 2025-01-29
 <br>
 
 </section>
