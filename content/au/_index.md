@@ -2,7 +2,7 @@
 title: Atletiekunie
 ---
 
-Op deze pagina staan links naar de verschillende hoofstukken van het Atletiekunie Wedstrijdreglement (2025-03-25).
+Op deze pagina staan links naar de verschillende hoofstukken van het Atletiekunie Wedstrijdreglement (versie 2025-04).
 <br>
 
 </section>
